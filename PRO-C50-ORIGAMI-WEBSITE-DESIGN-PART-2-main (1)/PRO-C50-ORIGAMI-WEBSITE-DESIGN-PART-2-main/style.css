@@ -1,0 +1,253 @@
+* {
+  /* color: #1e90ff; */
+  background-color: #FAF3DD;
+  font-family: cursive, fantasy, serif;
+  margin: 0px;
+}
+
+
+.head{
+      
+    background-color:white;
+    border:solid;
+     }
+  
+     .note{
+       background-color: red;
+       border: dotted;
+     }
+  
+  .grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .camel:hover p {
+    opacity: 1;
+}
+
+.camel:hover img {
+    opacity: 0.5;
+}
+
+.camel:hover {
+    transform: scale(1.15);
+}
+
+.camel-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .chameleon:hover p {
+    opacity: 1;
+}
+
+.chameleon:hover img {
+    opacity: 0.5;
+}
+
+.chameleon:hover {
+    transform: scale(1.15);
+}
+
+.chameleon-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .cicada:hover p {
+    opacity: 1;
+}
+
+.cicada:hover img {
+    opacity: 0.5;
+}
+
+.cicada:hover {
+    transform: scale(1.15);
+}
+
+.cicada-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+
+  
+
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .panda:hover p {
+    opacity: 1;
+}
+
+.panda:hover img {
+    opacity: 0.5;
+}
+
+.panda:hover {
+    transform: scale(1.15);
+}
+
+.panda-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .pigeon:hover p {
+    opacity: 1;
+}
+
+.pigeon:hover img {
+    opacity: 0.5;
+}
+
+.pigeon:hover {
+    transform: scale(1.15);
+}
+
+.pigeon-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .teddy:hover p {
+    opacity: 1;
+}
+
+.teddy:hover img {
+    opacity: 0.5;
+}
+
+.teddy:hover {
+    transform: scale(1.15);
+}
+
+.teddy-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+ 
+
+  .youtube{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 650px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .youtube:hover p {
+    opacity: 1;
+}
+
+.youtube:hover img {
+    opacity: 0.5;
+}
+
+.youtube:hover {
+    transform: scale(1.15);
+}
+
+.youtube-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
+
+
+  .instagram{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 650px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .instagram:hover p {
+    opacity: 1;
+}
+
+.instagram:hover img {
+    opacity: 0.5;
+}
+
+.instagram:hover {
+    transform: scale(1.15);
+}
+
+.instagram-text{
+    display: flex;
+    justify-content: space-between;
+    color:greenyellow
+}
